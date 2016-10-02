@@ -1,0 +1,20 @@
+@charset "utf-8";
+.part1  {max-width=20%; float:left}
+.part2  {width:70%; float:right; background-color:#036; width:70%}
+.section2{ margin-bottom:auto; border:thin; border-color:#39C}
+.home   {float:left; width:20% ; color:#FFF;} 
+.about  {float:left; width:20%; color:#FFF; }
+.online {float:left; width:20%; color:#FFF;}
+.service{float:left; width:20%; color:#FFF;}
+.contact{float:left; width:20%; color:#FFF }
+.part3  {float:left; width:50%; color:#003;}
+.part4  {float:left; width:50%; color:#003;}
+.section3{width:100%; color:#003; border:thick; border-bottom-color:#C36}
+.part5   { float:left; width:33.33%}
+.part6   { float:left; width:33.33%}
+.part7    { float:left; width:33.33%}
+.section1 {border:thin; border-color:#39C}
+
+
+
+

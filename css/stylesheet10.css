@@ -1,0 +1,23 @@
+@charset "utf-8";
+.part1 img     {width:10%; float:left}
+.entireclass   {width:100%}   
+ul li         {list-style:none}
+.part2        {width:70%; float:left; margin:30px; padding:1%; background-color:#00F}
+.home         {width:25%; float:left; color:#FFF}
+.contact      {width:25%; float:left;color:#FFF}
+.accessories  {width:25%; float:left; color:#FFF}
+.furniture    {width:25%; float:left; color:#FFF}
+.banner img   { max-width:100%; background-image:url(images/large-web-banner.jpg)}
+.readmore     {width:10%; float:left}
+.banner       {position:relative}
+.readmore     {position:absolute}
+.part5         { float:left; width:33.33%;}
+.part6        { float:left; width:33.33%;}
+.part7        { float:left; width:33.33%;}
+.footer       {background-color:#009; margin:40px; text-align:center; color:#FFF}
+.part3        {width:50%; float:left; margin:10px; text-align:justify}
+.part4        {width:40%; float:left; margin:10px; text-align:justify}
+.section4     { border: solid #009; box-sizing:border-box}
+.division     {background-color:#39F}
+
+
