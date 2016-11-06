@@ -14,7 +14,7 @@ li                {list-style:none;}
 
 .sitecontainer     {max-width:1150px; width:100%; margin:auto}
 
-.section2          { background-color:#dcbca2; position:absolute; width:38%; bottom: -57px; right: 428px; padding: 11px}
+.section2          { background-color:#dcbca2; position:absolute; width:38%; bottom:25px; right: 428px; padding: 11px}
 
 .banner          { position:relative}
 
@@ -39,7 +39,8 @@ li                {list-style:none;}
 
 <!--.registration     { text-align:center}-->
 
-.form3            { border:solid; width: 35%; padding: 29px 98px}
+.form3            {width: 35%; padding: 29px 400px}
+.form3 form       { border:solid;padding: 18px }
 
 .section6         { background-color:#edecec; width:100%}
 
@@ -48,7 +49,7 @@ li                {list-style:none;}
 .logo1data        { width:50%; float:left}
 .logo1data>span        { color:#0e8d17}  
 
-.heading          { text-align:center}
+.heading          { text-align:center; padding:18px}
 
 .logo2img          {  width:50%; float:left}
 
@@ -60,15 +61,17 @@ li                {list-style:none;}
 
 .testimonals       { background-color:#f6f4f5; text-align:center}
 .testimonals>p     { padding:22px}
+.testimonals h4     { padding:24px}
 
-.lastban>h3        { text-align:center}
+
+.lastban>h3        { text-align:center; padding:14px}
 
 
 .lastban               { background-color:#e5e5e5}
-.lastbanner            {} 
+.lastbanner            {padding: 1px 115px} 
 .lastbanner>img        { }
-.lastbannerdata>p     { }
-.lastbannerdata       {}
+.lastbannerdata h3     { text-align:center }
+.lastbannerdata p       { text-align:center}
 
 .lastsection          {}
 .lastsection>ul>li     { float: left;padding: 48px; margin: 31px;}
