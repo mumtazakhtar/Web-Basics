@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+*                 {margin:0; padding:0; outline:0}
+img               {max-width:100%; height:auto}
+
+ul                {list-style:none}
+
+li                {list-style:none;}
+
+.clear_fix         {clear:both; width:100%}
+
+.fullwrap          {max-width:1600px; width:100%; margin:auto}
+
+.sitecontainer     {max-width:1150px; width:100%; margin:auto}
+
+.section2          { background-color:#dcbca2; position:absolute; width:38%; bottom: -57px; right: 428px; padding: 11px}
+
+.banner          { position:relative}
+
+.register         { width:24%; float:left}
+
+.form1            { width:76%; float:left}
+
+.section3         { width:100%}
+
+.singles          { width:39%; float:left; font-size:32px}
+ 
+.era              { width:59%; float:left; font-size:16px}
+
+.section4         { }
+
+.form2            { width:40%; float:left}
+
+.three            { width:60%; float:left}
+.three>ul>li      { float: right; padding: 22px;}
+
+.section5         { background-color:#f8f3ed }
+
+<!--.registration     { text-align:center}-->
+
+.form3            { border:solid; width: 35%; padding: 29px 98px}
+
+.section6         { background-color:#edecec; width:100%}
+
+.logo1img          {  width:50%; float:left}
+
+.logo1data        { width:50%; float:left}
+.logo1data>span        { color:#0e8d17}  
+
+.heading          { text-align:center}
+
+.logo2img          {  width:50%; float:left}
+
+.logo2data        { width:50%; float:left}
+.logo2data>span        { color:#0e8d17} 
+
+
+.viewmore          { width:50%}
+
+.testimonals       { background-color:#f6f4f5; text-align:center}
+.testimonals>p     { padding:22px}
+
+.lastban>h3        { text-align:center}
+
+
+.lastban               { background-color:#e5e5e5}
+.lastbanner            {} 
+.lastbanner>img        { }
+.lastbannerdata>p     { }
+.lastbannerdata       {}
+
+.lastsection          {}
+.lastsection>ul>li     { float: left;padding: 48px; margin: 31px;}
