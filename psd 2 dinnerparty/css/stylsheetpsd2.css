@@ -14,15 +14,16 @@ li                {list-style:none;}
 
 .sitecontainer     {max-width:1150px; width:100%; margin:auto}
 
-.section2          { background-color:#dcbca2; position:absolute; width:38%; bottom:25px; right: 428px; padding: 11px}
+.section2          { background-color:#dcbca2; position:absolute; width:38%; top:304px; right: 428px; padding: 11px}
 
 .banner          { position:relative}
 
 .register         { width:24%; float:left}
 
 .form1            { width:76%; float:left}
+.form1 form        {}
 
-.section3         { width:100%}
+.section3         { width:100%; padding: 45px 2px}
 
 .singles          { width:39%; float:left; font-size:32px}
  
@@ -31,30 +32,36 @@ li                {list-style:none;}
 .section4         { }
 
 .form2            { width:40%; float:left}
+.form2 form       {}
+.form2 select      { border: 0;
+    width: 222px;
+    padding: 11px;
+    background-color: beige;}
+
 
 .three            { width:60%; float:left}
 .three>ul>li      { float: right; padding: 22px;}
 
 .section5         { background-color:#f8f3ed }
 
-<!--.registration     { text-align:center}-->
+.registration     { text-align:center; padding:24px 1px}
 
-.form3            {width: 35%; padding: 29px 400px}
-.form3 form       { border:solid;padding: 18px }
+.form3            {width: 35%; padding: 29px 400px; border:solid}
+.form3 form       { padding: 18px }
 
 .section6         { background-color:#edecec; width:100%}
 
-.logo1img          {  width:50%; float:left}
+.logo1img          {  width:44%; float:left}
 
 .logo1data        { width:50%; float:left}
-.logo1data>span        { color:#0e8d17}  
+.logo1data>span        { color:#0e8d17; font-size:22px}  
 
 .heading          { text-align:center; padding:18px}
 
-.logo2img          {  width:50%; float:left}
+.logo2img          {  width:44%; float:left}
 
 .logo2data        { width:50%; float:left}
-.logo2data>span        { color:#0e8d17} 
+.logo2data>span        { color:#0e8d17; font-size:22px} 
 
 
 .viewmore          { width:50%}
